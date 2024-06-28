@@ -85,14 +85,17 @@ celerybeat-schedule
 .env
 .venv
 .section4-env
+.section4-env-update
 env/
 env39/
 env311/
 venv/
-section4-env
+section4-env/
+section4-env-update/
 ENV/
 env.bak/
 venv.bak/
+section4-env.bak/
 section4-env.bak/
 
 # Spyder project settings
